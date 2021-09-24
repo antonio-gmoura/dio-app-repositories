@@ -58,7 +58,7 @@ class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {
     }
 
     override fun onQueryTextChange(newText: String?): Boolean {
-        Log.e(TAG, "onQueryTextChange: $newText")
+        //Log.e(TAG, "onQueryTextChange: $newText")
         return false
     }
 

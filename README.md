@@ -26,6 +26,10 @@ Aula 7 - Um pouco de view model
 
 Aula 8 - Finalização do APP
 
+## Screenshot
+
+<img src="device-2021-09-24-140919.png" alt="device-2021-09-24-140919" style="zoom: 50%;" />
+
 ## Link do projeto original
 
 https://github.com/EzequielMessore/app-repositories
