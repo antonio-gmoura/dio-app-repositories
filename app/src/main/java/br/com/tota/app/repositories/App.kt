@@ -2,6 +2,7 @@ package br.com.tota.app.repositories
 
 import android.app.Application
 import br.com.tota.app.repositories.data.di.DataModule
+import br.com.tota.app.repositories.domain.di.DomainModule
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.context.startKoin
 
@@ -15,6 +16,7 @@ class App : Application() {
         }
 
         DataModule.load()
+        DomainModule.load()
 
     }
 }
