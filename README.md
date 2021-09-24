@@ -28,7 +28,7 @@ Aula 8 - Finalização do APP
 
 ## Screenshot
 
-<img src="device-2021-09-24-140919.png" alt="device-2021-09-24-140919" style="zoom: 50%;" />
+![device-2021-09-24-140919](device-2021-09-24-140919.png)
 
 ## Link do projeto original
 
